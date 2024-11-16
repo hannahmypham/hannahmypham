@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hannah Pham
-- 👀 I’m a Data Analyst
-- 🌱 I’m currently learning SQL and Tableau
+- 👀 I’m currently a Data Analyst in healthcare industry
+- 🌱 I’m currently learning analysis using Python
 - ⚡ Outside of school and work, I love sharing tips and what I learn that day via LinkedIn ! 
     Check out my posts here: https://www.linkedin.com/in/hannah-pham-data/]
 - 📫 Reach me via email:  han.tmphm@gmail.com
