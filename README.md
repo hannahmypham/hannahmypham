@@ -12,8 +12,7 @@ I'm focused on mastering Scikit-learn for model building and deepening my knowle
 
 🌐 Connect 
 
-Check out my recent insights and posts on Data Science learning and career tips via LinkedIn!
-Check out my posts [here] (https://www.linkedin.com/in/hannah-pham-data/)
+Check out my recent insights and posts on Data Science learning and career tips via LinkedIn (https://www.linkedin.com/in/hannah-pham-data/)!
 
 Reach me via email: han.tmphm@gmail.com
 
