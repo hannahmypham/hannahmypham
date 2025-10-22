@@ -6,14 +6,14 @@ I’m transitioning into Data Science. My core focus is on Statistical Modeling 
 
 My toolbox includes: Python (Pandas, NumPy, Scikit-learn), SQL (BigQuery, Oracle), and Tableau.
 
-Currently Learning 🌱
+🌱 Currently Learning 
 
 I'm focused on mastering Scikit-learn for model building and deepening my knowledge of Feature Engineering techniques for ML data readiness.
 
-Connect 🌐
+🌐 Connect 
 
 Check out my recent insights and posts on Data Science learning and career tips via LinkedIn!
-Check out my posts here [https://www.linkedin.com/in/hannah-pham-data/]
+Check out my posts [here] (https://www.linkedin.com/in/hannah-pham-data/)
 
 Reach me via email: han.tmphm@gmail.com
 
