@@ -1,8 +1,8 @@
- 👋 Hi, I’m Hannah Pham (MS Data Science @ UCSD)
+ 👋 Hi, thank you for visiting my Github page. I’m Hannah Pham (MS Data Science @ UCSD)
 
 I am a former Data Analyst II in the healthcare sector, leveraging 2+ years of experience to transform operational efficiency using data-driven solutions.
 
-I’m transitioning into Data Science. My core focus is on Statistical Modeling (Regression, Time Series) and building efficient ETL pipelines for predictive projects.
+I’m transitioning into Data Science through pursuing my MS in Data Science at UCSD. My core focus is on Statistical Modeling (Regression, Time Series) and building efficient ETL pipelines for predictive projects.
 
 My toolbox includes: Python (Pandas, NumPy, Scikit-learn), SQL (BigQuery, Oracle), and Tableau.
 
