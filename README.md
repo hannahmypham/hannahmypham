@@ -8,7 +8,7 @@ My toolbox includes: Python (Pandas, NumPy, Scikit-learn), SQL (BigQuery, Oracle
 
 🌱 Currently Learning 
 
-I'm focused on mastering Scikit-learn for model building and deepening my knowledge of Feature Engineering techniques for ML data readiness.
+I'm focused on mastering Scikit-learn, PyTorch, NN, NLP for model building and deepening my knowledge of Feature Engineering techniques for ML data readiness.
 
 🌐 Connect 
 
