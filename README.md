@@ -1,22 +1,34 @@
- 👋 Hi, thank you for visiting my Github page. I’m Hannah Pham (MS Data Science @ UCSD)
+# 👋 Hi, I’m Hannah Pham
 
-I am a former Data Analyst II in the healthcare sector, leveraging 2+ years of experience to transform operational efficiency using data-driven solutions.
+**M.S. Data Science @ UCSD | Former Data Analyst II | ML Enthusiast**
 
-I’m transitioning into Data Science through pursuing my MS in Data Science at UCSD. My core focus is on Statistical Modeling (Regression, Time Series) and building efficient ETL pipelines for predictive projects.
+I’m a data professional transitioning from **enterprise analytics** to **Machine Learning**, with a background in **Econometrics** and 2.5 years of SQL/ETL experience. Currently seeking **Summer 2026 Data Science / ML internships**.
 
-My toolbox includes: Python (Pandas, NumPy, Scikit-learn), SQL (BigQuery, Oracle), and Tableau.
+---
 
-🌱 Currently Learning 
+## 🔍 Experience Highlights
 
-I'm focused on mastering Scikit-learn, PyTorch, NN, NLP for model building and deepening my knowledge of Feature Engineering techniques for ML data readiness.
+- **Exodus Recovery Inc.** – Automated reports for **4 counties**, led **data migrations**, and built dashboards supporting **2,000+ clients**  
+- **Impact:** Improved **data accuracy by 5%** and reduced **report generation time from 1 week → instant access**
 
-🌐 Connect 
+---
 
-Check out my recent insights and posts on Data Science learning and career tips via LinkedIn (https://www.linkedin.com/in/hannah-pham-data/)!
+## 🛠️ Skills & Toolbox
 
-Reach me via email: han.tmphm@gmail.com
+- **Languages & Libraries:** Python (Pandas, NumPy, scikit-learn, PyTorch, tensorflow), SQL (BigQuery, Oracle), Tableau  
+- **Techniques:** Statistical Modeling, ETL Pipelines, Machine Learning, NLP, Transformers  
+- **Current Focus:** Feature Engineering, Model Evaluation, LLMs
 
-<!---
-hannahmypham/hannahmypham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Projects & Learning
+
+- **LLM-based Paper Ranking System:** Ranks academic papers using abstracts & citation metadata  
+- **End-to-end ML Projects:** Supervised & unsupervised models through coursework  
+- **Hackathons & Rapid Prototyping:** Collaborative, experimental projects
+
+---
+
+## 🌐 Connect
+
+- Li
