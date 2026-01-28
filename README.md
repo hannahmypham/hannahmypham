@@ -31,4 +31,5 @@ I’m a data professional transitioning from **enterprise analytics** to **Machi
 
 ## 🌐 Connect
 
-- Li
+- LinkedIn: [Hannah Pham](https://www.linkedin.com/in/hannah-pham-data/)  
+- Email: han.tmphm@gmail.com
