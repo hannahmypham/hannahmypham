@@ -2,7 +2,7 @@
 
 # Hannah Pham
 
-**`Data Scientist in Training · ML Enthusiast · Problem Solver`**
+**`Data Scientist in Training · Product Scientist Enthusiast · Giving voice to data thru ML`**
 
 M.S. Data Science @ UC San Diego &nbsp;|&nbsp; Former Data Analyst II &nbsp;|&nbsp; Econometrics Background
 
