@@ -36,9 +36,9 @@ I'm a data professional bridging the gap between **enterprise analytics** and **
 
 | Project | Description | Tools |
 |---|---|---|
-| 📄 **LLM Paper Ranker** | Ranks academic papers using abstracts & citation metadata | Python · LLMs · NLP |
-| 📊 **End-to-End ML Models** | Supervised & unsupervised learning pipelines | scikit-learn · PyTorch |
-| ⚡ **Hackathon Projects** | Rapid prototyping & collaborative ML experiments | Various |
+| 📄 **AI Powered Meta Review Generation** | Generate meta review, suggest decisions and ranks ML papers| Python · LLMs · NLP |
+| 📊 **MovieLens Recommendation System Experimentatio** | A/B testing, comparing item-similarity recommender with a matrix factorization model | scikit-learn · Streamlit |
+| ⚡ **Hackathon Projects** | Market Intelligence Platforms, ClaimWiseAI | Various |
 
 ---
 
@@ -50,17 +50,6 @@ I'm a data professional bridging the gap between **enterprise analytics** and **
 >
 > 📈 Improved data accuracy by **5%** &nbsp;·&nbsp; ⏱️ Slashed report time from **1 week → instant access**
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Hannah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hannahmypham&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&cache_seconds=1800)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
