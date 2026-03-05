@@ -18,10 +18,10 @@ M.S. Data Science @ UC San Diego &nbsp;|&nbsp; Former Data Analyst II &nbsp;|&nb
 
 I'm a data professional bridging the gap between **enterprise analytics** and **machine learning** — bringing 2.5 years of real-world SQL/ETL experience into the world of AI. Currently deepening my expertise in ML, NLP, and LLMs through my M.S. program at UCSD.
 
-🔭 &nbsp;Currently building: **LLM-based Academic Paper Ranking System**
-🌱 &nbsp;Learning: **Feature Engineering · Model Evaluation · LLMs**
-🎯 &nbsp;Seeking: **Summer 2026 Data Science / ML Internships**
-🧠 &nbsp;Background in: **Econometrics · Statistical Modeling · ETL Pipelines**
+-🔭 &nbsp;Currently building: **LLM-based Academic Paper Ranking System**
+-🌱 &nbsp;Learning: **Feature Engineering · Model Evaluation · LLMs**
+-🎯 &nbsp;Seeking: **Summer 2026 Data Science / ML Internships**
+-🧠 &nbsp;Background in: **Econometrics · Statistical Modeling · ETL Pipelines**
 
 ---
 
