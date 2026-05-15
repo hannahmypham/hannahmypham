@@ -39,7 +39,7 @@ I build ML systems that turn messy, real-world data into decisions that matter. 
 | 🏷️ **[Restaurant Cuisine Classification](https://github.com/hannahmypham)** | 10-class cuisine classifier on 13K+ restaurant reviews using SVM ensemble | scikit-learn · TF-IDF · NLP | Macro-F1: 0.63 → 0.80 (+27%) |
 | 📈 **[Market Intelligence Dashboard](https://github.com/hannahmypham/AI-Powered-Market-Intelligence-Dashboard-)** | Real-time sentiment + volatility dashboard for financial advisors | FinBERT · Streamlit · Ridge Regression | LPL Hackathon 2025 |
 | 🔍 **[ClaimWise AI](https://github.com/hannahmypham/ClaimWise-AI---Insurance-Claim-Processing)** | Multimodal insurance fraud detection pipeline | BigQuery · Vector Search · Embeddings | Hours → minutes review time |
-| 📊 **[Insurance Price Prediction](https://github.com/hannahmypham)** | Regression modeling to predict medical insurance charges | Python · R · Feature Engineering | R² = 0.86 |
+| 📊 **[Insurance Price Prediction]([https://github.com/hannahmypham](https://github.com/hannahmypham/Insurance-Price-Statistical-Model-and-Prediction))** | Regression modeling to predict medical insurance charges | Python · R · Feature Engineering | R² = 0.86 |
 
 ---
 
