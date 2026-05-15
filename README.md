@@ -19,11 +19,11 @@ M.S. Data Science @ UC San Diego &nbsp;|&nbsp; Data Analyst II @ Exodus Recovery
 
 I build ML systems that turn messy, real-world data into decisions that matter. I bring 2.5 years of production analytics experience in healthcare into my work in machine learning, NLP, and deep learning at UCSD.
 
-- 🔭 &nbsp;Currently researching: **Audio source separation for infant speech (PyTorch + SAM Audio) @ UCSD CDL**
-- 🏉 &nbsp;Also building: **Athlete performance analytics pipelines for Women's Rugby @ Wu Tsai Alliance**
-- 🧠 &nbsp;Studying: **Causal Inference · Deep Learning · NLP · Scalable Data Systems**
-- 🎯 &nbsp;Seeking: **Fall 2026 / Winter 2027 Data Science or ML Internships**
-- 📍 &nbsp;Based in: **San Diego, CA**
+🔭 &nbsp;Currently researching: **Audio source separation for infant speech (PyTorch + SAM Audio) @ UCSD CDL**
+🏉 &nbsp;Also building: **Athlete performance analytics pipelines for Women's Rugby @ Wu Tsai Alliance**
+🧠 &nbsp;Studying: **Causal Inference · Deep Learning · NLP · Scalable Data Systems**
+🎯 &nbsp;Seeking: **Fall 2026 / Winter 2027 Data Science or ML Internships**
+📍 &nbsp;Based in: **San Diego, CA**
 
 ---
 
