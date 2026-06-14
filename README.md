@@ -4,12 +4,12 @@
 
 **`Giving voice to data through ML · MS Data Science @ UCSD · Healthcare Analytics Background`**
 
-M.S. Data Science @ UC San Diego &nbsp;|&nbsp; Data Analyst II @ Exodus Recovery &nbsp;|&nbsp; Econometrics @ UCLA
+M.S. Data Science @ UC San Diego &nbsp;|&nbsp; Former Data Analyst II @ Exodus Recovery &nbsp;|&nbsp; Econometrics @ UCLA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-pham-data/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:han.tmphm@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://hannah-pham.carrd.co/)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Fall%202026%20%7C%20Winter%202027-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/hannah-pham-data/)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Summer%202026-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/hannah-pham-data/)
 
 </div>
 
@@ -25,7 +25,7 @@ I build ML systems that turn messy, real-world data into decisions that matter. 
 
 🧠 &nbsp;Studying: **Causal Inference · Deep Learning · NLP · Scalable Data Systems**
 
-🎯 &nbsp;Seeking: **Fall 2026 / Winter 2027 Data Science or ML Internships**
+🎯 &nbsp;Seeking: **Summer 2026 Data Science or ML Internships**
 
 📍 &nbsp;Based in: **San Diego, CA**
 
@@ -39,7 +39,8 @@ I build ML systems that turn messy, real-world data into decisions that matter. 
 | 🏷️ **[Restaurant Cuisine Classification](https://github.com/hannahmypham)** | 10-class cuisine classifier on 13K+ restaurant reviews using SVM ensemble | scikit-learn · TF-IDF · NLP | Macro-F1: 0.63 → 0.80 (+27%) |
 | 📈 **[Market Intelligence Dashboard](https://github.com/hannahmypham/AI-Powered-Market-Intelligence-Dashboard-)** | Real-time sentiment + volatility dashboard for financial advisors | FinBERT · Streamlit · Ridge Regression | LPL Hackathon 2025 |
 | 🔍 **[ClaimWise AI](https://github.com/hannahmypham/ClaimWise-AI---Insurance-Claim-Processing)** | Multimodal insurance fraud detection pipeline | BigQuery · Vector Search · Embeddings | Hours → minutes review time |
-| 📊 **[Insurance Price Prediction]([https://github.com/hannahmypham](https://github.com/hannahmypham/Insurance-Price-Statistical-Model-and-Prediction))** | Regression modeling to predict medical insurance charges | Python · R · Feature Engineering | R² = 0.86 |
+| 📊 **[Insurance Price Prediction](https://github.com/hannahmypham/Insurance-Price-Statistical-Model-and-Prediction)** | Regression modeling to predict medical insurance charges | Python · R · Feature Engineering | R² = 0.86 |
+| 🏙️ **[Downtown SD Homeless Analysis](https://github.com/hannahmypham)** | Forecasting and hotspot analysis on unsheltered population counts in downtown San Diego | Python · Prophet · Spatial Analysis | In progress · 2012–present data |
 
 ---
 
@@ -70,6 +71,9 @@ I build ML systems that turn messy, real-world data into decisions that matter. 
 
 **Data Science Researcher — Wu Tsai Human Performance Alliance, UCSD** *(Mar 2026 – Present)*
 > Developed end-to-end athlete performance pipelines in R covering bilateral asymmetry, force distribution, and longitudinal trends for the Women's Rugby program.
+
+**Executive Coordinator — Tech Summit 2026** *(2026)*
+> Coordinating an upcoming tech event at the intersection of people, systems, and data.
 
 **Data Analyst II — Exodus Recovery Inc.** *(Apr 2023 – Aug 2025)*
 > Automated 15+ reports using Oracle SQL and Pentaho, cutting report generation from 1 week to instant access across 4 counties and supporting clinical decisions for 2,000+ clients.
