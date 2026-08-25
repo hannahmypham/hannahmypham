@@ -40,7 +40,6 @@ I build ML systems that turn messy, real-world data into decisions that matter. 
 | 📈 **[Market Intelligence Dashboard](https://github.com/hannahmypham/AI-Powered-Market-Intelligence-Dashboard-)** | Real-time sentiment + volatility dashboard for financial advisors | FinBERT · Streamlit · Ridge Regression | LPL Hackathon 2025 |
 | 🔍 **[ClaimWise AI](https://github.com/hannahmypham/ClaimWise-AI---Insurance-Claim-Processing)** | Multimodal insurance fraud detection pipeline | BigQuery · Vector Search · Embeddings | Hours → minutes review time |
 | 📊 **[Insurance Price Prediction](https://github.com/hannahmypham/Insurance-Price-Statistical-Model-and-Prediction)** | Regression modeling to predict medical insurance charges | Python · R · Feature Engineering | R² = 0.86 |
-| 🏙️ **[Downtown SD Homeless Analysis](https://github.com/hannahmypham)** | Forecasting and hotspot analysis on unsheltered population counts in downtown San Diego | Python · Prophet · Spatial Analysis | In progress · 2012–present data |
 
 ---
 
