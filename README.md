@@ -81,6 +81,6 @@ I build ML systems that turn messy, real-world data into decisions that matter. 
 
 <div align="center">
 
-*Let's connect — always happy to talk ML, data, or research problems.*
+*Let's connect!*
 
 </div>
